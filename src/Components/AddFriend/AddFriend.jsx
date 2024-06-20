@@ -126,3 +126,5 @@ export default function AddFriend({ friends, setFriends }) {
     </div>
   );
 }
+
+// add friend 
