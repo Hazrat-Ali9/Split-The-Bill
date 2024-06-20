@@ -1,0 +1,24 @@
+.splitBtn {
+    background-color: #ff9d40;
+    border: none !important;
+    font-weight: 500;
+    color: black;
+    margin-bottom: 15px;
+}
+
+.form-select {
+    width: 50% !important;
+}
+
+.form-select:focus {
+    border-color: lightgrey;
+    box-shadow: none !important;
+}
+
+.frndInput {
+    margin: 0 10px 0 0;
+    width: 30% !important;
+    border: 1px solid lightgrey ;
+    border-radius: 5px;
+    padding: 5px;
+}

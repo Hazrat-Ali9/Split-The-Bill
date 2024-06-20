@@ -1,0 +1,29 @@
+.selectBtn {
+    background-color: #ff9d40;
+    border: none !important;
+    font-weight: 500;
+    color: black;
+}
+
+.btn-primary:hover {
+    background-color: #ff9d40;
+    color: black;
+}
+
+.frndDiv:hover {
+    background-color: #fbf3e0;
+    transform: scale(1.02);
+    transition: 0.2s !important;
+} 
+
+/* add friend */
+.frndInput {
+    border: none;
+    border-radius: 0;
+    background-color: white;
+}
+.frndInput:focus {
+    outline: none !important;
+    border: none !important;
+    box-shadow: none !important;
+}

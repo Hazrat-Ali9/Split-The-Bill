@@ -1,0 +1,19 @@
+.closeBtn {
+    background-color: #ff9d40;
+    border: none !important;
+    font-weight: 500;
+    color: black;
+}
+
+.addFrnd {
+    background-color: #ff9d40 !important;
+    border: none !important;
+    font-weight: 500;
+    color: black;
+    width: 10% !important;
+}
+
+.btn-primary:hover {
+    background-color: #ff9d40;
+    color: black;
+}
