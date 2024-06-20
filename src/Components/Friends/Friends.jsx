@@ -95,3 +95,5 @@ export default function Friends({
     </div>
   );
 }
+
+// Friend jsx
