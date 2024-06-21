@@ -102,7 +102,7 @@ export default function AddFriend({ friends, setFriends }) {
               padding: "5px 30px",
             }}
           >
-            {/* add button */}
+            {/* Add Button */}
             Add
           </a>
 
