@@ -106,7 +106,7 @@ export default function AddFriend({ friends, setFriends }) {
             Add
           </a>
 
-          {/* close button */}
+          {/* Close Button */}
           <a
             href="#"
             className="btn btn-primary closeBtn mx-auto"
