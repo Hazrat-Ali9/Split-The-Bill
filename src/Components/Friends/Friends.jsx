@@ -73,7 +73,7 @@ export default function Friends({
           );
         })}
 
-        {/* add friend div */}
+        {/* Add Friend Div */}
 
         <AddFriend friends={friends} setFriends={setFriends} />
 
