@@ -134,3 +134,5 @@ export default function SplitABill({
     );
   }
 }
+
+// Split Bill jsx
