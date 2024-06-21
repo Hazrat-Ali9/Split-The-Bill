@@ -89,7 +89,7 @@ export default function AddFriend({ friends, setFriends }) {
         <div className="mt-2  d-flex justify-content-around align-items-center w-100">
           <a
             onClick={() => {
-              // calling addFriend function
+              // Calling addFriend function
               addFriend();
 
               // Changing Display
