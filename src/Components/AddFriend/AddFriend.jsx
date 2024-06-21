@@ -92,7 +92,7 @@ export default function AddFriend({ friends, setFriends }) {
               // calling addFriend function
               addFriend();
 
-              // changing display
+              // Changing Display
               document.querySelector(".addFrndDiv").style.display = "none";
               document.querySelector(".addFrend").style.display = "block";
             }}
