@@ -74,7 +74,7 @@ export default function AddFriend({ friends, setFriends }) {
           >
             Friend Image
           </label>
-          {/* friend image input */}
+          {/* Friend Image input */}
           <input
             onChange={(e) => setFriendImg(e.target.value)}
             type="text"
