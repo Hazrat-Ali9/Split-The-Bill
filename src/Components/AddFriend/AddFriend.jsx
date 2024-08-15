@@ -63,7 +63,7 @@ export default function AddFriend({ friends, setFriends }) {
           />
         </div>
 
-        {/* friend image */}
+        {/* Friend image */}
         <div className="input-group mb-3 w-100">
           <label
             className="d-flex align-items-center align-items-center me-2"
